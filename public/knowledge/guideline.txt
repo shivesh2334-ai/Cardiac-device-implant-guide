@@ -1,0 +1,717 @@
+  ACC/AHA Guidelines for Implantation of Cardiac Pacemakers and Antiarrhythmia
+Devices: Executive Summary : A Report of the American College of Cardiology/American
+     Heart Association Task Force on Practice Guidelines (Committee on Pacemaker
+                                       Implantation)
+Gabriel Gregoratos, Melvin D. Cheitlin, Alicia Conill, Andrew E. Epstein, Christopher Fellows,
+  T. Bruce Ferguson, Jr, Roger A. Freedman, Mark A. Hlatky, Gerald V. Naccarelli, Sanjeev
+                       Saksena, Robert C. Schlant and Michael J. Silka
+
+
+                                      Circulation. 1998;97:1325-1335
+                                      doi: 10.1161/01.CIR.97.13.1325
+    Circulation is published by the American Heart Association, 7272 Greenville Avenue, Dallas, TX 75231
+                     Copyright © 1998 American Heart Association, Inc. All rights reserved.
+                                Print ISSN: 0009-7322. Online ISSN: 1524-4539
+
+
+
+
+The online version of this article, along with updated information and services, is located on the
+                                       World Wide Web at:
+                                  http://circ.ahajournals.org/content/97/13/1325
+
+
+
+
+ Permissions: Requests for permissions to reproduce figures, tables, or portions of articles originally published
+ in Circulation can be obtained via RightsLink, a service of the Copyright Clearance Center, not the Editorial
+ Office. Once the online version of the published article for which permission is being requested is located,
+ click Request Permissions in the middle column of the Web page under Services. Further information about
+ this process is available in the Permissions and Rights Question and Answer document.
+
+ Reprints: Information about reprints can be found online at:
+ http://www.lww.com/reprints
+
+ Subscriptions: Information about subscribing to Circulation is online at:
+ http://circ.ahajournals.org//subscriptions/
+
+
+
+                      Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                   ACC/AHA Practice Guidelines
+
+             ACC/AHA Guidelines for Implantation of Cardiac
+                Pacemakers and Antiarrhythmia Devices:
+                         Executive Summary
+                  A Report of the American College of Cardiology/
+            American Heart Association Task Force on Practice Guidelines
+                     (Committee on Pacemaker Implantation)
+ Gabriel Gregoratos, MD, FACC, Chair; Melvin D. Cheitlin, MD, FACC; Alicia Conill, MD, FACP*;
+                 Andrew E. Epstein, MD, FACC; Christopher Fellows, MD, FACC;
+ T. Bruce Ferguson, Jr, MD, FACC†; Roger A. Freedman, MD, FACC; Mark A. Hlatky, MD, FACC;
+             Gerald V. Naccarelli, MD, FACC; Sanjeev Saksena, MD, MBBS, FACC‡;
+                    Robert C. Schlant, MD, FACC; Michael J. Silka, MD, FACC
+
+                  Executive Summary                                              Following extensive review of the medical literature and
+                                                                              related documents previously published by the American
+                         I. Introduction                                      College of Cardiology, the American Heart Association, and
+The publication of major studies dealing with the natural                     the North American Society for Pacing and Electrophysiol-
+history of bradyarrhythmias and tachyarrhythmias and major                    ogy, the writing committee developed recommendations that
+advances in the technology of pacemakers and implantable                      are evidence based whenever possible.
+cardioverter-defibrillators (ICDs) has mandated this revision                    Evidence supporting current recommendations is ranked as
+of the 1991 ACC/AHA Guidelines for Implantation of Pace-                      level A if the data were derived from multiple randomized
+makers and Antiarrhythmia Devices.                                            clinical trials involving a large number of individuals. Evi-
+   This executive summary appears in the April 7, 1998 issue                  dence was ranked as level B when data were derived from a
+of Circulation. The full text of the guidelines, including the                limited number of trials involving comparatively small num-
+ACC/AHA Class I, II, and III recommendations, is published                    bers of patients or from well-designed data analysis of
+in the April 1998 issue of the Journal of the American                        nonrandomized studies or observational data registries. Evi-
+College of Cardiology. Reprints of both the executive sum-                    dence was ranked as level C when consensus of expert
+mary and the full text are available from both organizations.                 opinion was the primary source of recommendation. The
+                                                                              committee emphasizes that for certain conditions for which
+                                                                              no other therapies are available, the indications for device
+   “ACC/AHA Guidelines for Implantation of Cardiac Pacemakers and
+Antiarrhythmia Devices: Executive Summary” was approved by the                therapies are based on years of clinical experience as well as
+Board of Directors of the American College of Cardiology in October           expert consensus and are thus well supported, even though
+1997 and the American Heart Association Science Advisory and Coor-            the evidence was ranked as level C.
+dinating Committee in January 1998.
+   *Representative of the American College of Physicians. †Representa-
+                                                                                 These guidelines include expanded sections on selection of
+tive of the Society of Thoracic Surgeons. ‡Representative of the North        pacemakers and ICDs, optimization of technology, cost, and
+American Society of Pacing and Electrophysiology.                             follow-up of implanted devices. The follow-up sections are
+   When citing this document, the ACC and the AHA request that the            relatively brief because in many instances the type and
+following format be used: Gregoratos G, Cheitlin MD, Conill A, Epstein
+AE, Fellows C, Ferguson TB Jr, Freedman RA, Hlatky MA, Naccarelli             frequency of follow-up examinations are device specific. The
+GV, Saksena S, Schlant RC, Silka MJ. ACC/AHA guidelines for                   importance of adequate follow-up, however, cannot be over-
+implantation of cardiac pacemakers and antiarrhythmia devices: a report       emphasized because optimal results from an implantable
+of the ACC/AHA Task Force on Practice Guidelines (Committee on
+Pacemaker Implantation). J Am Coll Cardiol. 1998;31:1175–1206.                device can be obtained only if the device is adjusted to
+   A single reprint of this document (executive summary) is available by      changing clinical conditions.
+calling 800-242-8721 (US only) or writing the American Heart Associ-             The text accompanying the list of indications should be
+ation, Public Information, 7272 Greenville Avenue, Dallas, TX 75231-
+4596. Ask for reprint No. 71-0136. To obtain a reprint of the full text of
+                                                                              read carefully because it includes the rationale and supporting
+the guidelines published in the April issue of the Journal of the American    evidence for many indications and in several instances
+College of Cardiology, ask for reprint No. 71-0137. To purchase               includes a discussion of alternative acceptable therapies.
+additional reprints, specify version reprint number: up to 999 copies, call
+                                                                              Terms such as “potentially reversible,” “persistent,” “tran-
+800-611-6083 (US only) or fax 413-665-2671; 1000 or more copies, call
+214-706-1466, fax 214-691-6342, or E-mail pubauth@amhrt.org. To               sient,” and “not expected to resolve” are frequently used.
+make photocopies for personal or educational use, call the Copyright          These terms are not specifically defined because the time
+Clearance Center, 508-750-8400.                                               element varies in different clinical settings. The treating
+   (Circulation. 1998;97:1325-1335.)
+   © 1998 American College of Cardiology and American Heart Asso-             physician must use appropriate clinical judgment and avail-
+ciation, Inc.                                                                 able data in deciding whether a condition is persistent or
+                                                                    1325
+                                  Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+1326      Pacemaker Implantation Guidelines: Executive Summary
+
+
+when it can be expected to be transient. The statement               block, particularly if syncope has occurred. It is now recog-
+“incidental finding at electrophysiological study” is used           nized that marked first-degree AV block can lead to symp-
+several times in this document and does not imply such a             toms even in the absence of higher degrees of AV conduction
+study is indicated. Appropriate indications for electrophysio-       disturbance and may be associated with a “pseudopacemaker
+logical studies have been previously published.                      syndrome” because of close proximity of atrial systole to the
+   The term “symptomatic bradycardia” is used frequently             preceding ventricular systole. Small uncontrolled trials have
+throughout the guidelines and is defined as a documented             suggested some symptomatic and functional improvement
+bradyarrhythmia that is directly responsible for the develop-        with pacing in patients with PR intervals .0.30 second,
+ment of frank syncope or near-syncope, transient dizziness or        especially those with left ventricular (LV) dysfunction, some
+light-headedness, and confusional states resulting from cere-        of whom may benefit from dual-chamber pacing with short
+bral hypoperfusion attributable to slow heart rate. Fatigue,         AV delay.
+                                                                        Type I second-degree AV block is unlikely to progress to
+exercise intolerance, and frank congestive heart failure may
+                                                                     advanced AV block when the delay is within the AV node.
+also result from bradycardia. These symptoms may occur at
+                                                                     Consequently, pacing is not usually indicated in this situation.
+rest or with exertion. Definite correlation of symptoms with a
+                                                                     However, in patients with type II second-degree AV block
+bradyarrhythmia is a requirement to fulfill the criteria of
+                                                                     (either intra- or infra-His), symptoms are frequent, prognosis
+symptomatic bradycardia. Caution should be exercised not to          is compromised, and progression to third-degree AV block is
+confuse physiological sinus bradycardia (as occurs in highly         common.
+trained athletes) with pathological bradyarrhythmias.                   Physiological AV block in the presence of supraventricular
+   The section on indications for ICDs has been extensively          tachyarrhythmias is not an indication for pacemaker implan-
+revised and enlarged to reflect emerging developments in this        tation except as specifically defined in the recommendations
+field and the voluminous literature attesting to the efficacy of     below. Similarly, neurally mediated mechanisms in young
+these devices in the treatment of sudden cardiac death and           patients with AV block should be assessed before proceeding
+malignant ventricular arrhythmias. Indications for ICDs are          with permanent pacing. Finally, permanent pacing for AV
+constantly changing and can be expected to change further as         block after valve surgery follows a variable natural history;
+ongoing large-scale trials are reported. In these guidelines the     therefore, the decision for permanent pacing is at the physi-
+term “mortality” is used to indicate “all-cause” mortality           cian’s discretion.
+unless otherwise specified. The committee elected to use
+“all-cause” mortality because of the variable definition of          Indications for Permanent Pacing in Acquired
+“sudden death” and the developing consensus to use “all-             Atrioventricular Block in Adults
+cause” mortality as the most appropriate end point of clinical       Class I
+trials.                                                              1. Third-degree AV block at any anatomic level associ-
+   The final recommendations for indications for device                 ated with any one of the following conditions:
+therapy are expressed in the standard ACC/AHA format:                   a. Bradycardia with symptoms presumed to be due to
+   Class I: Conditions for which there is evidence and/or                  AV block. (Level of evidence: C)
+general agreement that a given procedure or treatment is                b. Arrhythmias and other medical conditions that
+beneficial, useful, and effective.                                         require drugs that result in symptomatic bradycar-
+   Class II: Conditions for which there is conflicting                     dia. (Level of evidence: C)
+evidence and/or a divergence of opinion about the useful-               c. Documented periods of asystole >3.0 seconds or any
+ness/efficacy of a procedure or treatment.                                 escape rate <40 beats per minute (bpm) in awake,
+      Class IIa: Weight of evidence/opinion is in favor of                 symptom-free patients. (Level of evidence: B, C)
+usefulness/efficacy.                                                    d. After catheter ablation of the AV junction. (Level of
+      Class IIb: Usefulness/efficacy is less well established              evidence: B, C) There are no trials to assess outcome
+by evidence/opinion.                                                       without pacing, and pacing is virtually always
+   Class III: Conditions for which there is evidence and/or                planned in this situation unless the operative pro-
+general agreement that a procedure/treatment is not                        cedure is AV junction modification.
+useful/effective and in some cases may be harmful.                      e. Postoperative AV block that is not expected to
+                                                                           resolve. (Level of evidence: C)
+       II. Indications for Permanent Pacing                             f. Neuromuscular diseases with AV block such as
+                                                                           myotonic muscular dystrophy, Kearns-Sayre syn-
+A. Pacing for Acquired Atrioventricular Block                              drome, Erb’s dystrophy (limb-girdle), and peroneal
+in Adults                                                                  muscular atrophy. (Level of evidence: B)
+Patients with abnormalities of atrioventricular (AV) conduc-         2. Second-degree AV block regardless of type or site of
+tion may be asymptomatic or may experience serious symp-                block, with associated symptomatic bradycardia.
+toms related to bradycardia, ventricular arrhythmias, or both.          (Level of evidence: B)
+Decisions about the need for a pacemaker are necessarily
+influenced by the presence or absence of symptoms that are           Class IIa
+directly attributable to bradycardia.                                1. Asymptomatic third-degree AV block at any anatomic
+   Nonrandomized studies strongly suggest that permanent                site with average awake ventricular rates of 40 bpm or
+pacing improves survival in patients with third-degree AV               faster. (Level of evidence: B, C)
+
+                             Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                                                                 Gregoratos et al         April 7, 1998         1327
+
+
+2. Asymptomatic type II second-degree AV block. (Level               Indications for Permanent Pacing in Chronic
+   of evidence: B)                                                   Bifascicular and Trifascicular Block
+3. Asymptomatic type I second-degree AV block at intra- or           Class I
+   infra-His levels found incidentally at electrophysiological
+                                                                     1. Intermittent third-degree AV block. (Level of evidence: B)
+   study for other indications. (Level of evidence: B)
+                                                                     2. Type II second-degree AV block. (Level of evidence: B)
+4. First-degree AV block with symptoms suggestive of
+   pacemaker syndrome and documented alleviation of                  Class IIa
+   symptoms with temporary AV pacing. (Level of evi-
+                                                                     1. Syncope not proved to be due to AV block when other
+   dence: B)                                                            likely causes have been excluded, specifically ventric-
+                                                                        ular tachycardia (VT). (Level of evidence: B)
+Class IIb                                                            2. Incidental finding at electrophysiological study of
+1. Marked first-degree AV block (>0.30 second) in pa-                   markedly prolonged HV interval (>100 milliseconds)
+   tients with LV dysfunction and symptoms of conges-                   in asymptomatic patients. (Level of evidence: B)
+   tive heart failure in whom a shorter AV interval                  3. Incidental finding at electrophysiological study of pac-
+   results in hemodynamic improvement, presumably by                    ing-induced infra-His block that is not physiological.
+                                                                        (Level of evidence: B)
+   decreasing left atrial filling pressure. (Level of evi-
+   dence: C)                                                         Class IIb
+                                                                     None.
+Class III
+                                                                     Class III
+1. Asymptomatic first-degree AV block. (Level of evi-
+                                                                     1. Fascicular block without AV block or symptoms.
+   dence: B) (See “Pacing for Chronic Bifascicular and                  (Level of evidence: B)
+   Trifascicular Block.”)                                            2. Fascicular block with first-degree AV block without
+2. Asymptomatic type I second-degree AV block at the                    symptoms. (Level of evidence: B)
+   supra-His (AV node) level or not known to be intra- or
+   infra-Hisian. (Level of evidence: B, C)                           C. Pacing for Atrioventricular Block Associated
+3. AV block expected to resolve and unlikely to recur (eg,           With Acute Myocardial Infarction
+   drug toxicity, Lyme disease). (Level of evidence: B)              The long-term prognosis of survivors of acute myocardial
+                                                                     infarction (AMI) who develop AV block is related primarily
+B. Pacing for Chronic Bifascicular and                               to the extent of myocardial damage and the character of
+Trifascicular Block                                                  intraventricular conduction disturbances rather than the AV
+Symptomatic advanced AV block that develops in patients              block itself. Indications for permanent pacing in this setting
+                                                                     do not necessarily depend on the presence of symptoms.
+with underlying bifascicular and trifascicular block is asso-
+                                                                     Patients with AMI who develop intraventricular conduction
+ciated with a high mortality rate and a significant incidence of
+                                                                     defects (with the exception of isolated left anterior fascicular
+sudden death. However, there is considerable evidence that           block) have an unfavorable short- and long-term prognosis
+the rate of progression of bifascicular block to third-degree        and an increased incidence of sudden death.
+AV block is slow. Syncope is common in patients with                    The decision to implant a permanent pacemaker for AV or
+bifascicular block, and there is evidence that syncope in this       intraventricular conduction block complicating AMI will
+setting is associated with an increased incidence of sudden          depend on the type of conduction disturbance, location of the
+cardiac death. Therefore, if the cause of syncope in the             infarction, and relation of the electrical disturbance to infarct
+presence of bifascicular or trifascicular block cannot be            time. Thrombolytic therapy has decreased the incidence of
+determined with certainty, prophylactic permanent pacing is          high-grade AV block in AMI, but mortality remains high in
+indicated.                                                           this group of patients.
+   The PR and HV intervals have been identified as possible             The impact of preexisting bundle branch block on mortal-
+predictors of third-degree AV block and sudden death in the          ity after AMI is uncertain. However, left bundle branch block
+presence of underlying bifascicular block. However, the              combined with advanced or third-degree AV block and right
+prolongation is often at the level of the AV node, and               bundle branch block combined with left anterior or left
+                                                                     posterior fascicular block carry a particularly ominous
+frequently there is no correlation between the PR and HV
+                                                                     prognosis.
+intervals and progression to third-degree AV block and
+incidence of sudden cardiac death. Some investigators have           Indications for Permanent Pacing After the Acute
+suggested that asymptomatic patients with bifascicular block         Phase of Myocardial Infarction*
+and a prolonged HV interval ($100 milliseconds) should be
+                                                                     Class I
+considered for permanent pacing. However, the incidence of
+progression to third-degree AV block is low, even in the             1. Persistent second-degree AV block in the His-Purkinje
+setting of prolonged HV interval. Death is often not sudden or          system with bilateral bundle branch block or third-
+due to advanced AV block but rather due to the underlying               *These recommendations generally follow the ACC/AHA Guidelines
+heart disease itself and nonarrhythmic cardiac causes.               for the Management of Patients with Acute Myocardial Infarction.
+
+                             Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+1328        Pacemaker Implantation Guidelines: Executive Summary
+
+
+   degree AV block within or below the His-Purkinje                     genic and will occur as a consequence of essential long-
+   system after AMI. (Level of evidence: B)                             term drug therapy of a type and dose for which there are
+2. Transient advanced (second- or third-degree) infran-                 no acceptable alternatives. (Level of evidence: C)
+   odal AV block and associated bundle branch block. If              2. Symptomatic chronotropic incompetence. (Level of
+   the site of block is uncertain, an electrophysiological              evidence: C)
+   study may be necessary. (Level of evidence: B)
+                                                                     Class IIa
+3. Persistent and symptomatic second- or third-degree
+   AV block. (Level of evidence: C)                                  1. Sinus node dysfunction occurring spontaneously or as
+                                                                        a result of necessary drug therapy with heart rate <40
+Class IIa                                                               bpm when a clear association between significant
+None.                                                                   symptoms consistent with bradycardia and the actual
+                                                                        presence of bradycardia has not been documented.
+Class IIb                                                               (Level of evidence: C)
+1. Persistent second- or third-degree AV block at the AV
+   node level. (Level of evidence: B)                                Class IIb
+                                                                     1. In minimally symptomatic patients, chronic heart rate
+Class III                                                               <30 bpm while awake. (Level of evidence: C)
+1. Transient AV block in the absence of intraventricular             Class III
+   conduction defects. (Level of evidence: B)
+2. Transient AV block in the presence of isolated left               1. Sinus node dysfunction in asymptomatic patients, in-
+                                                                        cluding those in whom substantial sinus bradycardia
+   anterior fascicular block. (Level of evidence: B)
+                                                                        (heart rate <40 bpm) is a consequence of long-term
+3. Acquired left anterior fascicular block in the absence
+                                                                        drug treatment.
+   of AV block. (Level of evidence: B)
+                                                                     2. Sinus node dysfunction in patients with symptoms
+4. Persistent first-degree AV block in the presence of
+                                                                        suggestive of bradycardia that are clearly documented
+   bundle branch block that is old or age indeterminate.                as not associated with a slow heart rate.
+   (Level of evidence: B)                                            3. Sinus node dysfunction with symptomatic bradycardia
+                                                                        due to nonessential drug therapy.
+D. Pacing in Sinus Node Dysfunction
+Correlation of symptoms with arrhythmias resulting from              E. Prevention and Termination of
+sinus node dysfunction (eg, sinus bradycardia, sinus arrest,         Tachyarrhythmias by Pacing
+paroxysmal supraventricular tachycardia alternating with pe-         Pacing can be useful in terminating a variety of
+riods of bradycardia or even asystole) is essential in deciding      tachyarrhythmias, including atrial flutter, paroxysmal reen-
+whether a permanent pacemaker is indicated. This correlation         trant supraventricular tachycardia, and VT. A variety of
+may be difficult because of the intermittent nature of the           pacing patterns have been used, including programmed stim-
+episodes. Sinus node dysfunction may also express itself as          ulation and short bursts of rapid pacing. Antitachyarrhythmia
+chronotropic incompetence. Rate-responsive pacemakers                devices may detect the tachycardia and automatically activate
+have clinically benefited patients by restoring physiological        a pacing sequence or may respond to an external instruction
+heart rate during physical activity in this setting.                 (eg, application of a magnet). Similarly, prevention of
+   Trained athletes may have a physiological sinus bradycar-         tachyarrhythmias by pacing has been demonstrated in several
+dia of 40 to 50 bpm while awake and at rest and a sleeping           situations (eg, patients with the long QT syndrome and
+heart rate as low as 30 bpm with sinus pauses producing              recurrent pause-dependent VT). Combined therapy of pacing
+asystolic intervals as long as 2.8 seconds. These findings are       and b-blockade has been reported to shorten the QT interval
+due to increased vagal tone and are not an indication for            and help prevent sudden cardiac death. Atrial synchronous
+                                                                     ventricular pacing may prevent recurrences of reentrant
+permanent pacing.
+                                                                     supraventricular tachycardia, but this technique is rarely used
+   Permanent pacing in patients with sinus node dysfunction
+                                                                     today, given the availability of catheter ablation and other
+will frequently relieve symptoms but may not necessarily
+                                                                     alternative therapies. In some patients with bradycardia-
+result in improved survival. Whether dual-chamber pacing
+                                                                     dependent atrial fibrillation, atrial pacing may also be effec-
+improves survival compared with ventricular pacing remains           tive in reducing the frequency of recurrence. Dual-site and
+controversial. Multiple prospective trials are ongoing to            biatrial pacing are actively being investigated as therapies for
+assess the superiority of dual-chamber versus ventricular-           symptomatic drug-refractory atrial fibrillation with concom-
+based pacing systems in patients with sinus node dysfunction.        itant bradyarrhythmias.
+Indications for Permanent Pacing in Sinus                            Indications for Permanent Pacemakers That
+Node Dysfunction                                                     Automatically Detect and Pace to
+Class I                                                              Terminate Tachycardias
+1. Sinus node dysfunction with documented symptomatic                Class I
+   bradycardia, including frequent sinus pauses that pro-            1. Symptomatic recurrent supraventricular tachycardia
+   duce symptoms. In some patients, bradycardia is iatro-               that is reproducibly terminated by pacing after drugs
+
+                             Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                                                               Gregoratos et al         April 7, 1998      1329
+
+
+   and catheter ablation fail to control the arrhythmia or         important vasodepressor component in their reflex re-
+   produce intolerable side effects. (Level of evidence: C)        sponse, this component must be addressed as well.
+2. Symptomatic recurrent sustained VT as part of an                   Ten to forty percent of syncopal episodes are due to a
+   automatic defibrillator system. (Level of evidence: B)          variety of neurally mediated syndromes, the most common
+                                                                   being vasovagal syncope. Considerable controversy exists
+Class IIa                                                          concerning the role of permanent pacing in refractory neu-
+None.                                                              rally mediated syncope associated with significant bradycar-
+Class IIb                                                          dia or asystole because approximately 25% of patients have a
+                                                                   predominant vasodepressor reaction without significant bra-
+1. Recurrent supraventricular tachycardia or atrial flut-          dycardia. There is conflicting evidence in the literature
+   ter that is reproducibly terminated by pacing as an             regarding the efficacy of permanent pacing in neurally
+   alternative to drug therapy or ablation. (Level of              mediated syncope, although a recent randomized trial in
+   evidence: C)                                                    highly symptomatic patients with bradycardia demonstrated
+                                                                   that permanent pacing increased the time to the first syncopal
+Class III
+                                                                   event.
+1. Tachycardias frequently accelerated or converted to
+   fibrillation by pacing.                                         Indications for Permanent Pacing in
+2. The presence of accessory pathways with the capacity            Hypersensitive Carotid Sinus Syndrome and
+   for rapid anterograde conduction whether or not the             Neurally Mediated Syncope
+   pathways participate in the mechanism of the                    Class I
+   tachycardia.
+                                                                   1. Recurrent syncope caused by carotid sinus stimula-
+Pacing Indications to Prevent Tachycardia                             tion; minimal carotid sinus pressure induces ventric-
+                                                                      ular asystole of >3 seconds’ duration in the absence of
+Class I                                                               any medication that depresses the sinus node or AV
+1. Sustained pause-dependent VT, with or without pro-                 conduction. (Level of evidence: C)
+   longed QT, in which the efficacy of pacing is thor-
+   oughly documented. (Level of evidence: C)                       Class IIa
+                                                                   1. Recurrent syncope without clear, provocative events
+Class IIa                                                             and with a hypersensitive cardioinhibitory response.
+1. High-risk patients with congenital long QT syndrome.               (Level of evidence: C)
+   (Level of evidence: C)                                          2. Syncope of unexplained origin when major abnormal-
+                                                                      ities of sinus node function or AV conduction are
+Class IIb                                                             discovered or provoked in electrophysiological studies.
+1. AV reentrant or AV node reentrant supraventricular                 (Level of evidence: C)
+   tachycardia not responsive to medical or ablative
+   therapy. (Level of evidence: C)                                 Class IIb
+2. Prevention of symptomatic, drug-refractory, recur-              1. Neurally mediated syncope with significant bradycar-
+   rent atrial fibrillation. (Level of evidence: C)                   dia reproduced by a head-up tilt with or without
+                                                                      isoproterenol or other provocative maneuvers. (Level
+Class III                                                             of evidence: B)
+1. Frequent or complex ventricular ectopic activity with-
+   out sustained VT in the absence of the long QT                  Class III
+   syndrome.                                                       1. A hyperactive cardioinhibitory response to carotid
+2. Long QT syndrome due to reversible causes.                         sinus stimulation in the absence of symptoms.
+                                                                   2. A hyperactive cardioinhibitory response to carotid
+F. Pacing in Hypersensitive Carotid Sinus and                         sinus stimulation in the presence of vague symptoms
+Neurally Mediated Syndromes                                           such as dizziness, light-headedness, or both.
+Hypersensitive carotid sinus syndrome is an uncommon               3. Recurrent syncope, light-headedness, or dizziness in
+cause of syncope or presyncope. Symptoms in this setting              the absence of a hyperactive cardioinhibitory
+are mediated through both cardioinhibitory and vasode-                response.
+pressor reflexes. It is necessary to ascertain the relative        4. Situational vasovagal syncope in which avoidance be-
+contribution of these two components of carotid sinus                 havior is effective.
+stimulation before concluding that permanent pacing is
+clinically indicated. Patients with symptoms due entirely          G. Pacing in Children and Adolescents
+to the cardioinhibitory response of carotid sinus stimula-         Permanent pacing in children or adolescents is generally
+tion can be effectively treated with permanent pacing.             indicated in (1) symptomatic sinus bradycardia, (2) recurrent
+However, because 10% to 20% of patients also have an               bradycardia-tachycardia syndromes, (3) congenital AV block,
+                           Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+1330       Pacemaker Implantation Guidelines: Executive Summary
+
+
+and (4) advanced second- or third-degree surgically induced           2. Congenital third-degree AV block beyond the first
+or acquired AV block. Important differences between indica-              year of life with an average heart rate <50 bpm or
+tions for permanent pacing in children and adults include (1)            abrupt pauses in ventricular rate that are two or three
+age dependency of physiological heart rate and (2) impact of             times the basic cycle length. (Level of evidence: B)
+residual ventricular dysfunction and abnormal circulatory             3. Long QT syndrome with 2:1 AV or third-degree AV
+physiology after surgical palliation of complex congenital               block. (Level of evidence: B)
+cardiac defects.                                                      4. Asymptomatic sinus bradycardia in the child with
+   Symptomatic bradycardia is an indication for pacemaker                complex congenital heart disease with resting heart
+implantation, provided other causes of symptoms have been                rate <35 bpm or pauses in ventricular rate >3 sec-
+excluded. The bradycardia-tachycardia syndrome is an in-                 onds. (Level of evidence: C)
+creasingly frequent problem in young patients after surgery
+for congenital heart disease. Recurrent or chronic atrial flutter     Class IIb
+is responsible for substantial morbidity and mortality in             1. Transient postoperative third-degree AV block that
+young patients, and long-term atrial pacing at physiological             reverts to sinus rhythm with residual bifascicular
+rates and atrial antitachycardia pacing have been used in this           block. (Level of evidence: C)
+setting. However, the results of permanent pacing to date             2. Congenital third-degree AV block in the asymptomat-
+have been equivocal and the source of considerable                       ic neonate, child, or adolescent with an acceptable rate,
+controversy.                                                             narrow QRS complex, and normal ventricular func-
+   The indications for permanent pacing in congenital third-             tion. (Level of evidence: B)
+degree AV block have evolved with some studies suggesting             3. Asymptomatic sinus bradycardia in the adolescent
+improved long-term survival and prevention of syncopal                   with congenital heart disease with resting heart rate
+episodes in asymptomatic patients with congenital complete               <35 bpm or pauses in ventricular rate >3 seconds.
+heart block who meet specific criteria. High-grade second- or            (Level of evidence: C)
+third-degree AV block persisting for 7 to 14 days after cardiac
+surgery is an indication for permanent pacing. The need for           Class III
+permanent pacing in patients with transient postoperative AV          1. Transient postoperative AV block with return of normal
+block and residual bifascicular block has not been estab-                AV conduction within 7 days. (Level of evidence: B)
+lished, whereas patients with AV conduction that returns to           2. Asymptomatic postoperative bifascicular block with
+normal have a favorable prognosis.                                       or without first-degree AV block. (Level of evidence: C)
+                                                                      3. Asymptomatic type I second-degree AV block. (Level
+Indications for Permanent Pacing in Children                             of evidence: C)
+and Adolescents                                                       4. Asymptomatic sinus bradycardia in the adolescent
+Class I                                                                  when the longest RR interval is <3 seconds and the
+                                                                         minimum heart rate is >40 bpm. (Level of evidence: C)
+1. Advanced second- or third-degree AV block associated
+   with symptomatic bradycardia, congestive heart fail-
+                                                                      H. Pacing in Specific Conditions
+   ure, or low cardiac output. (Level of evidence: C)                 In patients with severely symptomatic hypertrophic cardio-
+2. Sinus node dysfunction with correlation of symptoms                myopathy, early nonrandomized studies demonstrated that
+   during age-inappropriate bradycardia. The definition               implantation of a dual-chamber pacemaker with a short AV
+   of bradycardia varies with the patient’s age and                   delay decreased the magnitude of LV outflow obstruction and
+   expected heart rate. (Level of evidence: B)                        improved symptoms. However, recent observational studies
+3. Postoperative advanced second- or third-degree AV                  suggest that a decrease in LV outflow gradient produced by a
+   block that is not expected to resolve or persists at least         temporary dual chamber may adversely affect ventricular
+   7 days after cardiac surgery. (Level of evidence: B, C)            filling and cardiac output. Recent randomized trials have
+4. Congenital third-degree AV block with a wide QRS                   yielded variable results: one study demonstrated that DDD
+   escape rhythm or ventricular dysfunction. (Level of                pacing reduced outflow tract gradient and improved New
+   evidence: B)                                                       York Heart Association (NYHA) functional class, whereas
+5. Congenital third-degree AV block in the infant with                another randomized double-blind study demonstrated no sig-
+   a ventricular rate <50 to 55 bpm or with congenital                nificant subjective or exercise capacity improvement in the
+   heart disease and a ventricular rate <70 bpm. (Level               paced versus nonpaced patient group at 2 to 3 months of
+   of evidence: B, C)                                                 follow-up, despite a significant decrease in LV outflow
+6. Sustained pause-dependent VT, with or without pro-                 gradient. As a result, pacing indications for hypertrophic
+   longed QT, in which the efficacy of pacing is thor-                cardiomyopathy remain controversial.
+   oughly documented. (Level of evidence: B)
+                                                                      Pacing Indications for
+Class IIa                                                             Hypertrophic Cardiomyopathy
+1. Bradycardia-tachycardia syndrome with the need for                 Class I
+   long-term antiarrhythmic treatment other than digi-                Class I indications for sinus node dysfunction or AV block
+   talis. (Level of evidence: C)                                      as previously described. (Level of evidence: C)
+                              Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                                                                Gregoratos et al         April 7, 1998     1331
+
+
+Class IIa                                                           with previously stated Class I indications should have per-
+None.                                                               manent pacing.
+Class IIb
+                                                                    Pacing Indications After Cardiac Transplantation
+1. Medically refractory, symptomatic hypertrophic car-
+                                                                    Class I
+   diomyopathy with significant resting or provoked LV
+   outflow obstruction. (Level of evidence: C)                      1. Symptomatic bradyarrhythmias/chronotropic incompe-
+                                                                       tence not expected to resolve and other Class I indica-
+Class III                                                              tions for permanent pacing. (Level of evidence: C)
+1. Patients who are asymptomatic or medically
+   controlled.
+                                                                    Class IIa
+                                                                    None.
+2. Symptomatic patients without evidence of LV outflow
+   obstruction.                                                     Class IIb
+Several nonrandomized trials of patients with symptomatic           1. Symptomatic bradyarrhythmias/chronotropic incom-
+dilated cardiomyopathy refractory to medical therapy have              petence that, although transient, may persist for
+reported limited improvement of symptoms with dual-cham-               months and require intervention. (Level of evidence: C)
+ber pacing with a short AV delay. However, at this time no
+long-term data are available, and there is no consensus of          Class III
+opinion for this indication. It has been hypothesized that a        1. Asymptomatic bradyarrhythmias after cardiac trans-
+well-timed atrial contraction primes the ventricles and de-            plantation.
+creases mitral regurgitation, thus augmenting stroke volume
+and arterial pressure. However, one randomized controlled           I. Selection and Follow-up of Pacemaker Devices
+trial showed no significant benefit of DDD pacing through a         Once a decision has been reached to implant a pacemaker,
+range of PR intervals despite the presence of both tricuspid        the clinician may choose from a large number of pace-
+and mitral regurgitation. Preliminary data suggest that simul-      maker generators and leads. Generator choices include
+taneous biventricular pacing may improve cardiac hemody-            single- versus dual-chamber devices, unipolar versus bi-
+namics and lead to subjective and objective symptom im-             polar configuration, presence of rate responsiveness and
+provement. This technique must still be considered                  type of sensor used, advanced features such as automatic
+investigational at this time.                                       mode switching, generator size, battery capacity, and cost.
+                                                                    Lead choices include polarity, type of insulation material,
+Pacing Indications for Dilated Cardiomyopathy                       active versus passive fixation mechanism, presence of
+Class I                                                             steroid elution, and typical pacing impedance. Other fac-
+Class I indications for sinus node dysfunction or AV block          tors that frequently influence the choice of a pacemaker
+as previously described. (Level of evidence: C)                     system include the capabilities of the pacemaker program-
+                                                                    mer and local availability of technical support. Current
+Class IIa                                                           single-chamber pacemakers incorporate a number of pro-
+None.                                                               gramming features such as pacing mode, lower rate, pulse
+Class IIb                                                           width and amplitude, sensitivity, and refractory period.
+                                                                    Additional features of current dual-chamber pacemakers
+1. Symptomatic, drug-refractory dilated cardiomyop-
+                                                                    include maximum tracking rate and AV delays. Rate-
+   athy with prolonged PR interval when acute hemo-
+                                                                    responsive pacemakers require programmable features to
+   dynamic studies have demonstrated hemodynamic
+                                                                    regulate the relation between sensor output and pacing rate
+   benefit of pacing. (Level of evidence: C)
+                                                                    and to limit the maximum sensor-driven pacing rate. These
+Class III                                                           programmable parameters must be individualized for each
+                                                                    patient. Many of these considerations are beyond the scope
+1. Asymptomatic dilated cardiomyopathy.                             of this document. The Table presents brief guidelines for
+2. Symptomatic dilated cardiomyopathy when patients                 selecting the appropriate pacemaker for the most com-
+   are rendered asymptomatic by drug therapy.                       monly encountered indications for pacing. Fig 1 depicts a
+3. Symptomatic ischemic cardiomyopathy.                             decision tree for selecting a pacing system for a patient
+Bradyarrhythmias after cardiac transplantation are common,          with AV block. Fig 2 depicts a decision tree for selecting
+occurring in 8% to 23% of patients with transplantation and         a pacing system for a patient with sinus node dysfunction.
+are usually associated with sinus node dysfunction. Although           It has been suggested that less sophisticated devices, eg,
+some investigators have recommended more liberal use of             single-chamber ventricular pacemakers or non–rate-re-
+cardiac pacing for persistent postoperative bradycardia, ap-        sponsive pacemakers, should be considered for elderly
+proximately 50% of these patients demonstrate significant           patients who require pacing. However, a large retrospec-
+improvement within 6 to 12 months after transplantation, and        tive analysis of elderly Medicare patients suggested that
+therefore long-term pacing is often unnecessary. However,           dual-chamber pacing is associated with improved survival
+patients with irreversible sinus node dysfunction or AV block       compared with ventricular pacing even after correction for
+                            Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+1332          Pacemaker Implantation Guidelines: Executive Summary
+
+
+Guidelines for Choice of Pacemaker Generator in Selected Indications for Pacing
+                                                                                                                               Neurally Mediated Syncope or
+                                       Sinus Node Dysfunction                                  AV Block                        Carotid Sinus Hypersensitivity
+Single-chamber atrial        ● No suspected abnormality of AV              Not appropriate                                   Not appropriate (unless AV block
+pacemaker                      conduction and not at increased risk for                                                      systematically excluded)
+                               future AV block
+                             ● Maintenance of AV synchrony during
+                               pacing desired
+                             ● Rate response available if desired
+Single-chamber               ● Maintenance of AV synchrony                 ● Chronic atrial fibrillation or other atrial     ● Chronic atrial fibrillation or other
+ventricular pacemaker          during pacing not necessary                   tachyarrhythmia or maintenance of AV              atrial tachyarrhythmia
+                             ● Rate response available if desired            synchrony during pacing not necessary           ● Rate response available if
+                                                                           ● Rate response available if desired                desired
+Dual-chamber pacemaker       ● AV synchrony during pacing desired          ● AV synchrony during pacing desired              ● Sinus mechanism present
+                             ● Suspected abnormality of AV conduction or   ● Atrial pacing desired                           ● Rate response available if desired
+                               increased risk for future AV block          ● Rate response available if desired
+                             ● Rate response available if desired
+Single-lead, atrial-         Not appropriate                               ● Normal sinus node function and no need for      Not appropriate
+sensing ventricular                                                          atrial pacing
+pacemaker                                                                  ● Desire to limit the number of pacemaker leads
+  AV indicates atrioventricular.
+
+
+confounding variables. On the basis of results of recently                           The cost of a pacemaker increases with its degree of
+published randomized and nonrandomized trials, rate-                               complexity and sophistication. At this time little is known
+responsive ventricular pacing and dual-chamber pacing                              about the cost-effectiveness of the additional features of the
+appear to offer benefits over fixed-rate ventricular pacing                        more complex pacemakers. Several ongoing trials assessing
+with respect to quality of life in elderly patients. However,                      the clinical benefits of dual-chamber or rate-responsive pac-
+there may be no benefit of dual-chamber pacing over                                ing include economic analysis to estimate the incremental
+rate-responsive ventricular demand pacing.                                         cost-effectiveness of these features. Optimal programming of
+
+
+
+
+               Figure 1. Selection of pacemaker systems for patients with atrioventricular block. AV indicates atrioventricular.
+
+                                   Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                                                                  Gregoratos et al         April 7, 1998       1333
+
+
+
+
+           Figure 2. Selection of pacemaker systems for patients with sinus node dysfunction. AV indicates atrioventricular.
+
+output voltages, pulse widths, and AV delays can markedly             techniques; and (3) implantation of an ICD. A combination of
+decrease battery drain and prolong generator life. It has been        ICD therapy with drugs or ablation is also frequently used.
+shown that expert programming of pacemaker generators                 Both early observational reports and more recent prospective
+may prolong their longevity by an average of 4.2 years                and sometimes randomized single-center and multicenter
+compared with nominal settings.                                       trials with long-term outcome data uniformly document
+   After implantation of a pacemaker, careful follow-up and           sudden cardiac death recurrence rates of 1% to 2% annually
+continuity of care are absolute requirements. Programming at          after device implantation compared with recurrences of 15%
+implantation must be reviewed before the patient is dis-              to 25% without device therapy. Recent studies have recorded
+charged and further refined at subsequent follow-up visits as         major improvements in implantation risk, system longevity,
+indicated by interrogation and testing. Frequency of fol-             symptoms associated with arrhythmia recurrences, quality of
+low-up is dictated by multiple factors, including other car-          life, and diagnosis and management of delivery of inappro-
+diovascular or medical problems managed by the physician              priate device therapy. Furthermore, the ICD has rapidly
+involved, the age of the pacemaker, and the results of                evolved from a short-lived nonprogrammable device requir-
+transtelephonic testing. Patients who are pacemaker depen-            ing thoracotomy for a lead insertion into a multiprogram-
+dent require more frequent clinical evaluations than those            mable antiarrhythmia device inserted almost exclusively
+who are not. Follow-up evaluation usually includes assess-            without thoracotomy and now capable of treating bradycar-
+ment of battery status, pacing threshold and pulse width,             dia, VT, and VF.
+sensing function, and lead integrity. The North American                 ICDs have been extensively evaluated in prospective clin-
+Society of Pacing and Electrophysiology and the Health Care           ical trials and clearly documented to revert sustained VTs,
+Financing Administration have published reports on antibra-           including pace termination of sustained VT and shock rever-
+dycardia pacemaker follow-up and guidelines for monitoring            sion of VF. Early retrospective reports documented signifi-
+of patients with antibradycardia pacemakers, respectively.            cant improvements in patient survival with the use of an ICD.
+                                                                      However, these studies tended to overestimate benefits by
+        III. Indications for Implantable                              using device therapies (antitachycardia pacing and shocks) as
+       Cardioverter-Defibrillator Therapy                             surrogate mortality events. It has recently become apparent
+Three major therapeutic options are currently available to            that delivery of device therapy cannot be used as a surrogate
+reduce or prevent VT or ventricular fibrillation (VF) in              mortality end point, because arrhythmias other than VT/VF
+patients at risk for these arrhythmias: (1) antiarrhythmic drug       can activate the device, and recurrent VT is not invariably
+therapy selected by electrophysiological study or ambulatory          fatal. Considerable controversy exists about the appropriate
+monitoring or prescribed empirically; (2) ablative techniques         end point for evaluation of ICD efficacy, with many studies
+used in cardiac surgery or percutaneously with catheter               using sudden death. However, classification of the cause of
+
+                             Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+1334      Pacemaker Implantation Guidelines: Executive Summary
+
+
+death is often difficult and imprecise; therefore, a consensus          Sudden death has been estimated to occur in 1.5% to 2.5%
+has emerged that “all-cause” mortality is the appropriate            of pediatric patients after repair of tetralogy of Fallot, and the
+primary end point for judging ICD efficacy. Total mortality          risk is even higher for patients with transposition of the great
+has varied significantly between reports due to differences in       arteries and aortic stenosis. Most cases are presumed to be
+disease status of the population under study and LV function.        due to a malignant ventricular arrhythmia associated either
+Survival of ICD recipients is greatly influenced by LV               with ischemia, ventricular dysfunction, or rapid ventricular
+function. Patients with an LV ejection fraction #30% have            response to atrial flutter. The risk of sudden cardiac death
+reduced survival rates compared with those with higher               may be greatest in young patients with diseases such as
+ejection fractions. However, both populations appear to              hypertrophic cardiomyopathy or the long QT syndrome.
+derive a significant survival benefit from ICD implantation.         Family history of sudden cardiac death may be an important
+   A significant body of information is now available com-           indication for implantation of an ICD in a pediatric patient
+paring the efficacy of antiarrhythmic drug therapy and ICDs          with these conditions. Limited experience with ICDs in
+for the secondary prevention of cardiac arrest and sustained         young patients with hypertrophic cardiomyopathy after resus-
+VT. Evidence from both early retrospective nonrandomized             citation has been encouraging.
+reports and more recent prospective randomized studies                  ICD therapy is also used in patients with coronary artery
+comparing ICD therapy with Class III antiarrhythmic drug             disease for the “primary prevention” of sudden cardiac death:
+therapy indicates a significant relative risk reduction with         nonsustained VT in patients with prior MI and LV dysfunc-
+ICD therapy at 1 and 3 years of follow-up. In a recently             tion carries a 2-year mortality estimate of 30%. Approxi-
+reported large prospective trial, 98% of randomly selected           mately half of this mortality is thought to be due to malignant
+patients could be maintained on ICD therapy, with 25.4%              ventricular arrhythmias. In general, improved patient survival
+requiring the addition of drug therapy by 2 years. Therefore,        with conventional antiarrhythmic drug therapy has not been
+the addition of an antiarrhythmic drug for selected patients         shown in this setting. Empiric amiodarone therapy has also
+with ICDs may improve their quality of life by reducing              shown inconsistent survival benefit, although a recent meta-
+recurrence of arrhythmias and the need for defibrillation.           analysis suggests that total mortality may be reduced when
+   Patients with coronary artery disease constitute the major-       amiodarone is compared with other medical therapies. A
+ity of patients receiving devices in most reports. Device            recent prospective randomized trial has documented im-
+implantation is widely accepted today as improving the               proved survival of patients with inducible and nonsuppress-
+outcome of these patients. It has been reported that patients        ible ventricular tachyarrhythmias treated with ICDs when
+with impaired LV function may obtain greater benefit with            compared with antiarrhythmic drug therapy, including ami-
+ICDs than with drug therapy. Optimal anti-ischemic therapy           odarone. However, routine insertion of ICDs in patients
+including (when possible) a b-blocker should be used con-            thought to be at high risk of sudden death who are undergoing
+comitantly with an ICD. In patients with marked elevation of         aortocoronary bypass graft surgery has not improved
+LV filling pressures, abbreviated defibrillation threshold           survival.
+testing is desirable.                                                   ICDs are not recommended for a number of patients,
+   Patients with idiopathic dilated cardiomyopathy have a            including those with ventricular tachyarrhythmias in evolving
+high mortality rate within 2 years of diagnosis. Approxi-            AMI or with electrolyte abnormalities, those without induc-
+                                                                     ible or spontaneous VT undergoing coronary bypass surgery,
+mately half die suddenly and unexpectedly, and it has been
+                                                                     and those with preexcitation syndrome presenting with VF as
+shown that the combination of poor LV function and frequent
+                                                                     a result of atrial fibrillation. Similarly, patients with terminal
+episodes of nonsustained VT is associated with an increased
+                                                                     illnesses or drug-refractory NYHA Class IV congestive heart
+risk of sudden death. In a recently published large prospective
+                                                                     failure who are not candidates for cardiac transplantation are
+trial, patients with idiopathic dilated cardiomyopathy consti-
+                                                                     likely to obtain limited benefit from ICD therapy. A history of
+tuted 10% of the study group and showed similar survival
+                                                                     psychiatric disorders, including severe depression and sub-
+benefits with ICD therapy compared with empiric amiod-
+                                                                     stance abuse, that interfere with the meticulous care and
+arone therapy as the entire cohort. Similarly, ICD therapy has
+                                                                     follow-up needed is also a relative contraindication to device
+been shown to confer a significant survival benefit in selected
+                                                                     therapy.
+patients with the long QT syndrome, hypertrophic cardiomy-
+                                                                        In appropriately selected patients, ICDs have been found to
+opathy, arrhythmogenic right ventricular dysplasia, idiopathic
+                                                                     be cost-effective and comparable to other widely accepted
+VF, and syncope with inducible sustained VT.
+                                                                     noncardiac therapies such as hemodialysis. A preliminary
+   Pediatric patients represent ,1% of persons with ICDs.
+                                                                     analysis of a recent randomized clinical trial indicates that in
+Nevertheless, ICD therapy is an important treatment option
+                                                                     this group of patients, ICDs had a cost-effectiveness ratio of
+for young patients, given the problems of noncompliance and
+                                                                     $27,000 per life-year gained.
+drug-induced side effects with lifelong pharmacological treat-
+ment. Sudden cardiac death is uncommon in childhood and is           Indications for ICD Therapy
+mainly associated with three forms of heart disease: (1)
+congenital heart disease, (2) cardiomyopathy, and (3) primary        Class I
+electrical disease. It is noteworthy that a lower percentage of      1. Cardiac arrest due to VF or VT not due to a transient
+children who undergo resuscitation survive to hospital dis-             or reversible cause. (Level of evidence: A)
+charge compared with adults.                                         2. Spontaneous sustained VT. (Level of evidence: B)
+                             Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+                                                                               Gregoratos et al         April 7, 1998          1335
+
+
+3. Syncope of undetermined origin with clinically rele-            Class III
+   vant, hemodynamically significant sustained VT or VF
+   induced at electrophysiological study when drug ther-           1. Syncope of undetermined cause in a patient without
+   apy is ineffective, not tolerated, or not preferred.               inducible ventricular tachyarrhythmias. (Level of evi-
+   (Level of evidence: B)                                             dence: C)
+4. Nonsustained VT with coronary disease, prior MI, LV             2. Incessant VT or VF. (Level of evidence: C)
+   dysfunction, and inducible VF or sustained VT at                3. VF or VT resulting from arrhythmias amenable to
+   electrophysiological study that is not suppressible by a           surgical or catheter ablation; for example, atrial ar-
+   Class I antiarrhythmic drug. (Level of evidence: B)                rhythmias associated with the Wolff-Parkinson-White
+                                                                      syndrome, right ventricular outflow tract VT, idio-
+Class IIa                                                             pathic left ventricular tachycardia, or fascicular VT.
+None.                                                                 (Level of evidence: C)
+Class IIb                                                          4. Ventricular tachyarrhythmias due to a transient or
+                                                                      reversible disorder (eg, AMI, electrolyte imbalance,
+1. Cardiac arrest presumed to be due to VF when
+                                                                      drugs, trauma). (Level of evidence: C)
+   electrophysiological testing is precluded by other med-
+                                                                   5. Significant psychiatric illnesses that may be aggra-
+   ical conditions. (Level of evidence: C)
+2. Severe symptoms attributable to sustained ventricular              vated by device implantation or may preclude system-
+   tachyarrhythmias while awaiting cardiac transplanta-               atic follow-up. (Level of evidence: C)
+   tion. (Level of evidence: C)                                    6. Terminal illnesses with projected life expectancy <6
+3. Familial or inherited conditions with a high risk for              months. (Level of evidence: C)
+   life-threatening ventricular tachyarrhythmias such as           7. Patients with coronary artery disease with LV dys-
+   long QT syndrome or hypertrophic cardiomyopathy.                   function and prolonged QRS duration in the absence
+   (Level of evidence: B)                                             of spontaneous or inducible sustained or nonsus-
+4. Nonsustained VT with coronary artery disease, prior MI,            tained VT who are undergoing coronary bypass
+   and LV dysfunction, and inducible sustained VT or VF               surgery. (Level of evidence: B)
+   at electrophysiological study. (Level of evidence: B)           8. NYHA Class IV drug-refractory congestive heart fail-
+5. Recurrent syncope of undetermined etiology in the                  ure in patients who are not candidates for cardiac
+   presence of ventricular dysfunction and inducible ven-             transplantation. (Level of evidence: C)
+   tricular arrhythmias at electrophysiological study
+   when other causes of syncope have been excluded.                KEY WORDS: AHA Medical/Scientific Statements n pacemakers n pacing
+   (Level of evidence: C)                                          n arrhythmia
+
+
+
+
+                           Downloaded from http://circ.ahajournals.org/ by guest on February 17, 2013
+
